@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [BaccoSense - Smart Tobacco Monitoring System](https://github.com/PranataWilsen/BaccoSense)
 
-- 🤝 I’m looking for help with [SewaFone - Mobile-based Phone Rental Platform](https://github.con/PranataWilsen/SEWAFONE-ADMIN)
+- 🤝 I’m looking for help with [SewaFone - Mobile-based Phone Rental Platform](https://github.com/PranataWilsen/SEWAFONE-ADMIN)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1eGn5o4RSE8HwpQhGJbl8iKQTipyLxTb5/view?usp=sharing](https://drive.google.com/file/d/1eGn5o4RSE8HwpQhGJbl8iKQTipyLxTb5/view?usp=sharing)
 
