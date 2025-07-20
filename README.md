@@ -79,12 +79,12 @@
 <div align="center">
 
  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=PranataWilsen&show_icons=true&theme=tokyonight" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranataWilsen&show_icons=true&theme=tokyonight" width="600"/>
 
   <h2>🔥 GitHub Streak</h2>
-  <img src="https://streak-stats.demolab.com?user=PranataWilsen&theme=tokyonight" width="700"/>
+  <img src="https://streak-stats.demolab.com?user=PranataWilsen&theme=tokyonight" width="600"/>
 
   <h2>🚀 Most Used Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranataWilsen&layout=compact&theme=tokyonight" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranataWilsen&layout=compact&theme=tokyonight" width="400"/>
 
 </div>
