@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wilson Pranata Irawan</h1>
+<h1 align="center">Hi 👋, I'm Wilsen Pranata Irawan</h1>
 <h3 align="center">A passionate Website and Mobile developer from Indonesian.</h3>
 
 - 🌱 I’m currently learning **Next.js & React ecosystem, Clean Architecture & TDD for Flutter, REST API security & backend integration, Advanced AI integration in mobile apps**
