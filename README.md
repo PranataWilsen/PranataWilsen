@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wilson pranata irawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson pranata irawan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wilson pranata irawan" target="blank"><img align="center" src="https://www.linkedin.com/in/wilson-pranata-irawan-b0094b262/" alt="wilson pranata irawan" height="30" width="40" /></a>
 <a href="https://instagram.com/pranatawilsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranatawilsen" height="30" width="40" /></a>
 </p>
 
