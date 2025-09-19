@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilsen Pranata Irawan</h1>
 <h3 align="center">A passionate Website and Mobile developer from Indonesian.</h3>
 
-- 🌱 I’m currently learning **Next.js & React ecosystem, Clean Architecture & TDD for Flutter, REST API security & backend integration, Advanced AI integration in mobile apps**
+- 🌱 I’m currently learning **Next.js, Laravel, and CI4 ecosystem, Clean Architecture & TDD for Flutter, REST API security & backend integration, Advanced AI integration in mobile apps**
 
 - 👯 I’m looking to collaborate on [BaccoSense - Smart Tobacco Monitoring System](https://github.com/PranataWilsen/BaccoSense)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1eGn5o4RSE8HwpQhGJbl8iKQTipyLxTb5/view?usp=sharing](https://drive.google.com/file/d/1eGn5o4RSE8HwpQhGJbl8iKQTipyLxTb5/view?usp=sharing)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, MVVM architecture, Mobile App UI/UX Design, Git, Figma, VS Code, Provider, FlutterHooks, API Integration, and how to build clean & scalable apps!**
+- 💬 Ask me about **Flutter, Next JS, Node JS, Typescript, Laravel, CI4, MySQL, Firebase, MVVM architecture, Mobile/Website App UI/UX Design, Git, Figma, VS Code, Provider, FlutterHooks, API Integration, and how to build clean & scalable apps!**
 
 - 📫 How to reach me **pranatawilson@gmail.com**
 
